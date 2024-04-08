@@ -1,1 +1,6 @@
 *.o
+
+playground/http-server/server
+playground/http-server-2/server
+playground/http-server/hello
+.DS_Store

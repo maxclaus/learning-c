@@ -1,6 +1,6 @@
 // Program created based on the "C Programming Full Course for free" tutorial
 // To run it:
-// gcc GuessNumber.c -o GuessNumber.o && ./GuessNumber..o
+// gcc GuessNumber.c -o GuessNumber.o && ./GuessNumber.o
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
