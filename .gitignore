@@ -1,6 +1,6 @@
 *.o
 
-playground/http-server/server
-playground/http-server-2/server
-playground/http-server/hello
+projects/http-server/server
+projects/http-server-2/server
+projects/http-server/hello
 .DS_Store

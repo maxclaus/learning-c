@@ -1,7 +1,8 @@
-# c-playground
+# learning-c
 
-Nothing fancy, just a personal repository to keep track of some code
-I might write while learning C and references I find helpful to C resources.
+This is a personal repository to help me learning C language.
+
+This project contains notes and small program examples on C programming.
 
 ## Resources
 
