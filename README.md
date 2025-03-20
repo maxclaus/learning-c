@@ -6,6 +6,10 @@ This project contains notes and small program examples on C programming.
 
 ## Resources
 
+### Standards
+
+- [C Coding Standard](https://users.ece.cmu.edu/~eno/coding/CCodingStandard.html)
+
 ### Learning
 
 - [C Programming Full Course by Bro Code](https://www.youtube.com/watch?v=87SH2Cn0s9A)
